@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Noche Sin Control
+
+This log tracks the cryptographic history and versioning for the song **Noche Sin Control** (noche-sin-control).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-17T17:38:40.638108 | `v1` | `8c541adba84c8d66e1cf374af7eb842ace86608cd8e9e223312410a7645fd570` | `704b9bcc9948ccf053526432d91140662e5de664a2ed58b59fea482f6d311853` | `2026-05-17_noche-sin-control-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

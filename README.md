@@ -15,7 +15,7 @@
 | **Written On** | May 17, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-sin-control/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Noche Sin Control](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-sin-control/) |
+| **Get License** | [Official Music Licensing for Noche Sin Control](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-sin-control/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8c541adba84c8d66e1cf374af7eb842ace86608cd8e9e223312410a7645fd570` |
 | **Timestamp** | May 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
